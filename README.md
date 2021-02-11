@@ -1,10 +1,10 @@
 ## Hi there 👋 I am shray 
 
 ---
-🔭 I’m currently working on a [Test case generator](https://generate-testcase.herokuapp.com/) & [conference app](https://conference-jam.herokuapp.com/)
-🌱 I’m currently learning React.js and python
-📫 How to reach me: shrayanand000@gmail.com
-😄 Pronouns: "SH RAY"
+* 🔭 I’m currently working on a [Test case generator](https://generate-testcase.herokuapp.com/) & [conference app](https://conference-jam.herokuapp.com/)
+* 🌱 I’m currently learning React.js and python
+* 📫 How to reach me: shrayanand000@gmail.com
+* 😄 Pronouns: "SH RAY"
 ---
 ### here are some stats :
 <div class="row">
