@@ -4,7 +4,7 @@
 * I’m currently working on a [Test case generator](https://generate-testcase.herokuapp.com/) 
 * my website :- [link](https://shray0027.github.io/portfolio/)
 * How to reach me: shrayanand000@gmail.com
-* Pronouns: "SH RAY"
+
 
 ---
 ### technologies and tools:
